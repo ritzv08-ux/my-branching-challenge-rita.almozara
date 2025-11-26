@@ -1,7 +1,0 @@
-Welcome to my Git branching challenge!
-Line 1: Original content
-Line 2: Original content
-Line 3: Original content
-git clone https://github.com/ritzv08-ux/my-branching-challenge-rita.almozara/edit/main/notes.txt
-cd my-branching-challenge
-git checkout -b feature-update-line1
